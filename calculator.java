@@ -1,3 +1,7 @@
+/*
+author : Mayank Kumar Jha
+*/
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
